@@ -2,7 +2,7 @@
 
 **Última actualización:** 24 de octubre de 2025, 04:05 AM (Argentina)
 
-Una experiencia digital narrativa y modular para consultas de tarot. Desarrollada con **React + Vite + WindiCSS** en el frontend, **Express + MongoDB Atlas** en el backend, e integrada con **Google AdSense** para monetización respetuosa. Inspirada en estética Mechanicus y terminal sci-fi.
+Una experiencia digital narrativa y modular para consultas de tarot. Desarrollada con **React + Vite + WindiCSS** en el frontend, **Express + MongoDB Atlas** en el backend, e integrada con **Google AdSense** para monetización respetuosa.
 
 ---
 
@@ -55,7 +55,7 @@ Pitonisa_001/
 
 - Selección de categoría: Amor, Dinero, Salud
 - Tirada de 3 cartas con interpretación narrativa
-- Modal visual y estilo Mechanicus
+
 - Guardado de consultas en MongoDB Atlas
 - Monetización con AdSense en zonas no intrusivas
 
@@ -69,12 +69,13 @@ Pitonisa_001/
 npm install
 npm run dev
 
-### Backend
+```
 
+### Backend
+``` bash
 npm install
 npm run dev
 ```
-
 ✨ Autor
 Franco — Carhué, Argentina
 Digital artisan enfocado en diseño narrativo, análisis técnico y visualización de datos.
